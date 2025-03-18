@@ -1,22 +1,24 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
+const accountId = 144553;
+let accountEmail = "Deepak@google.com";
+var accountPassword = "12345";
+accountCity = "Jaipur";
 let accountState;
 
-// accountId = 2 // not allowed
-
-
-accountEmail = "hc@hc.com"
-accountPassword = "21212121"
-accountCity = "Bengaluru"
+// Updating values
+accountEmail = "Deepak@Deepak.com";
+accountPassword = "21212121";
+accountCity = "jaipur";
 
 console.log(accountId);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 
-/*
-Prefer not to use var
-because of issue in block scope and functional scope
-*/
+// Function to go back to the previous page
+function goBack() {
+    window.history.back();
+}
 
-
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+// Creating a back button dynamically
+const backButton = document.createElement("button");
+backButton.innerText = "🔙 Go Back";
+backButton.onclick = goBack;
+document.body.appendChild(backButton);

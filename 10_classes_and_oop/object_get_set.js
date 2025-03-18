@@ -1,13 +1,13 @@
 const User = {
-    _email: 'h@hc.com',
+    _email: 'h@Deepak.com',
     _password: "abc",
 
 
-    get email(){
+    get email() {
         return this._email.toUpperCase()
     },
 
-    set email(value){
+    set email(value) {
         this._email = value
     }
 }

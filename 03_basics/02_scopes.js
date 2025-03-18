@@ -4,7 +4,7 @@ if (true) {
     let a = 10
     const b = 20
     // console.log("INNER: ", a);
-    
+
 }
 
 
@@ -14,24 +14,24 @@ if (true) {
 // console.log(c);
 
 
-function one(){
-    const username = "hitesh"
+function one() {
+    const username = "Deepak"
 
-    function two(){
+    function two() {
         const website = "youtube"
         console.log(username);
     }
     // console.log(website);
 
-     two()
+    two()
 
 }
 
 // one()
 
 if (true) {
-    const username = "hitesh"
-    if (username === "hitesh") {
+    const username = "Deepak"
+    if (username === "Deepak") {
         const website = " youtube"
         // console.log(username + website);
     }
@@ -46,13 +46,13 @@ if (true) {
 
 console.log(addone(5))
 
-function addone(num){
+function addone(num) {
     return num + 1
 }
 
 
 
 addTwo(5)
-const addTwo = function(num){
+const addTwo = function (num) {
     return num + 2
 }
