@@ -1,3 +1,26 @@
+### ECPLOER THIS DEATILS
+  # 01_basics
+
+This folder contains fundamental JavaScript concepts. Click on the links below to explore each topic.
+
+## Files
+
+- [01_variables.js](./01_variables.js) - Understanding variables in JavaScript  
+- [02_dataTypes.js](./02_dataTypes.js) - Overview of data types  
+- [03_conversionOperation.js](./03_conversionOperation.js) - Type conversion operations  
+- [04_comparision.js](./04_comparision.js) - Comparison operations in JavaScript  
+- [05_strings.js](./05_strings.js) - Working with strings  
+- [06_nums_and_math.js](./06_nums_and_math.js) - Numbers and math operations  
+- [07_datesInJs.js](./07_datesInJs.js) - Handling dates in JavaScript  
+- [datatypes-summary.js](./datatypes-summary.js) - Summary of data types  
+- [test.js](./test.js) - Test file for practice  
+
+---
+
+**Author:** Deepak  
+[GitHub Repository](https://github.com/Deepak081999/concept-for-javascrpit)
+  
+
 To create a README file for the GitHub repository at [https://github.com/Deepak081999/concept-for-javascrpit](https://github.com/Deepak081999/concept-for-javascrpit), follow these steps:
 
 1. **Clone the Repository**: Open your terminal and execute:
