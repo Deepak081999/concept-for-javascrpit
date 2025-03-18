@@ -1,22 +1,23 @@
-const accountId = 144553
-let accountEmail = "Deepak@google.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
+const accountId = 144553;
+let accountEmail = "Deepak@google.com";
+var accountPassword = "12345";
+accountCity = "Jaipur";
 let accountState;
 
-// accountId = 2 // not allowed
-
-
-accountEmail = "Deepak@Deepak.com"
-accountPassword = "21212121"
-accountCity = "jaipur"
+// Updating values
+accountEmail = "Deepak@Deepak.com";
+accountPassword = "21212121";
+accountCity = "jaipur";
 
 console.log(accountId);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 
-/*
-Prefer not to use var
-because of issue in block scope and functional scope
-*/
+// Creating and adding an image dynamically
+const imgElement = document.createElement("img");
+imgElement.src = "./img/table.jpg";  // Ensure the correct path
+imgElement.alt = "Table Image";
+imgElement.style.width = "300px";  // Adjust size as needed
+imgElement.style.display = "block";
+imgElement.style.margin = "20px auto";
 
-
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+document.body.appendChild(imgElement);
