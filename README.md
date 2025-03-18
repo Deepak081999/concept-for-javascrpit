@@ -5,6 +5,7 @@ This folder contains fundamental JavaScript concepts. Click on the links below t
 
 ## Files
 
+- [01_basice/01_variables.js](.01_basice//01_variables.js) - Understanding variables in JavaScript  
 - [01_variables.js](./01_variables.js) - Understanding variables in JavaScript  
 - [02_dataTypes.js](./02_dataTypes.js) - Overview of data types  
 - [03_conversionOperation.js](./03_conversionOperation.js) - Type conversion operations  
