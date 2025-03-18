@@ -5,6 +5,7 @@ This folder contains fundamental JavaScript concepts. Click on the links below t
 
 ## Files
 
+<<<<<<< HEAD
 - [01_variables.js](./01_basics/01_variables.js) - Understanding variables in JavaScript  
 - [02_dataTypes.js](./01_basics/02_dataTypes.js) - Overview of data types  
 - [03_conversionOperation.js](./01_basics/03_conversionOperation.js) - Type conversion operations  
@@ -13,6 +14,18 @@ This folder contains fundamental JavaScript concepts. Click on the links below t
 - [06_nums_and_math.js](./01_basics/06_nums_and_math.js) - Numbers and math operations  
 - [07_datesInJs.js](./01_basics/07_datesInJs.js
 
+=======
+- [01_basice/01_variables.js](.01_basice//01_variables.js) - Understanding variables in JavaScript  
+- [01_variables.js](./01_variables.js) - Understanding variables in JavaScript  
+- [02_dataTypes.js](./02_dataTypes.js) - Overview of data types  
+- [03_conversionOperation.js](./03_conversionOperation.js) - Type conversion operations  
+- [04_comparision.js](./04_comparision.js) - Comparison operations in JavaScript  
+- [05_strings.js](./05_strings.js) - Working with strings  
+- [06_nums_and_math.js](./06_nums_and_math.js) - Numbers and math operations  
+- [07_datesInJs.js](./07_datesInJs.js) - Handling dates in JavaScript  
+- [datatypes-summary.js](./datatypes-summary.js) - Summary of data types  
+- [test.js](./test.js) - Test file for practice  
+>>>>>>> 2a85c888d3ba172b5beee606e541f81f9698d669
 
 ---
 
