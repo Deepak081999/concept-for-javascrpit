@@ -16,6 +16,125 @@ This folder contains fundamental JavaScript concepts. Click on the links below t
 - [test.js](./01_basics/test.js) - Test file for practice  
 
 ---
+# 02_basics
+
+This folder contains fundamental JavaScript concepts related to arrays and objects. Click on the links below to explore each topic.
+
+## Files
+
+- [01_arrays.js](./02_basics/01_arrays.js) - Introduction to arrays  
+- [02_array.js](./02_basics/02_array.js) - Advanced array concepts  
+- [03_objects.js](./02_basics/03_objects.js) - Introduction to objects  
+- [04_objects.js](./02_basics/04_objects.js) - Advanced object concepts  
+
+---
+## 03_basics (Functions & Scopes)
+
+This section contains important JavaScript concepts related to functions, scopes, and control flow. Click on the links below to explore each topic.
+
+- [01_functions.js](./03_basics/01_functions.js) - Understanding functions in JavaScript  
+- [02_scopes.js](./03_basics/02_scopes.js) - Scope and closures  
+- [03_arrow.js](./03_basics/03_arrow.js) - Arrow functions in JavaScript  
+- [04_iife.js](./03_basics/04_iife.js) - Immediately Invoked Function Expressions (IIFE)  
+
+## 04_control_flow (Conditional Statements & Logic)
+
+- [one.js](./04_control_flow/one.js) - Introduction to control flow  
+- [switch.js](./04_control_flow/switch.js) - Switch case statements  
+- [truthy.js](./04_control_flow/truthy.js) - Truthy and falsy values in JavaScript  
+
+---
+# 05_iterations
+
+This folder contains JavaScript concepts related to loops and iterations. Click on the links below to explore each topic.
+
+## Files
+
+- [five.js](./05_iterations/five.js) - Iteration example 5  
+- [four.js](./05_iterations/four.js) - Iteration example 4  
+- [nine.js](./05_iterations/nine.js) - Iteration example 9  
+- [one.js](./05_iterations/one.js) - Iteration example 1  
+- [seven.js](./05_iterations/seven.js) - Iteration example 7  
+- [six.js](./05_iterations/six.js) - Iteration example 6  
+- [three.js](./05_iterations/three.js) - Iteration example 3  
+- [two.js](./05_iterations/two.js) - Iteration example 2  
+
+---
+# 06_dom
+
+This folder contains HTML files related to Document Object Model (DOM) manipulation in JavaScript. Click on the links below to explore each file.
+
+## Files
+
+- [four.html](./06_dom/four.html) - Example 4 of DOM manipulation  
+- [one.html](./06_dom/one.html) - Example 1 of DOM manipulation  
+- [three.html](./06_dom/three.html) - Example 3 of DOM manipulation  
+- [two.html](./06_dom/two.html) - Example 2 of DOM manipulation  
+
+---
+# 07_projects
+
+This folder contains project-related markdown documentation. Click on the link below to explore the project details.
+
+## Files
+
+- [projectsset1.md](./07_projects/projectsset1.md) - Project Set 1 Documentation  
+
+---
+# 08_events
+
+This folder contains JavaScript event handling concepts. Click on the links below to explore each topic.
+
+## Files
+
+- [eventbasics.js](./08_events/eventbasics.js) - Basics of JavaScript events  
+- [one.html](./08_events/one.html) - Event handling example 1  
+- [two.html](./08_events/two.html) - Event handling example 2  
+- [three.html](./08_events/three.html) - Event handling example 3  
+
+---
+# 09_advance_one
+
+This folder covers advanced JavaScript concepts, including API requests and promises.
+
+## Files
+
+- [ApiRequest.html](./09_advance_one/ApiRequest.html) - Handling API requests in JavaScript  
+- [promise.js](./09_advance_one/promise.js) - Understanding Promises in JavaScript  
+- [promises.js](./09_advance_one/promises.js) - Working with multiple Promises  
+
+---
+# 10_classes_and_oop
+
+This folder contains JavaScript concepts related to Object-Oriented Programming (OOP), including classes, inheritance, prototypes, and object properties.
+
+## Files
+
+- [bind.html](./10_classes_and_oop/bind.html) - Understanding `bind()` in JavaScript  
+- [call.js](./10_classes_and_oop/call.js) - Using `call()` for function invocation  
+- [getter_setter.js](./10_classes_and_oop/getter_setter.js) - Implementing Getters and Setters  
+- [inheritance.js](./10_classes_and_oop/inheritance.js) - JavaScript Class Inheritance  
+- [mathpi.js](./10_classes_and_oop/mathpi.js) - Working with Math properties  
+- [myClasses.js](./10_classes_and_oop/myClasses.js) - Custom JavaScript Classes  
+- [notes.md](./10_classes_and_oop/notes.md) - Additional notes on OOP concepts  
+- [object_get_set.js](./10_classes_and_oop/object_get_set.js) - Working with Object Getters and Setters  
+- [Object.js](./10_classes_and_oop/Object.js) - Understanding JavaScript Objects  
+- [oop.js](./10_classes_and_oop/oop.js) - Basics of Object-Oriented Programming  
+- [properties_get_set.js](./10_classes_and_oop/properties_get_set.js) - Accessing and Modifying Properties  
+- [Prototype.js](./10_classes_and_oop/Prototype.js) - JavaScript Prototypes Explained  
+- [staticprop.js](./10_classes_and_oop/staticprop.js) - Understanding Static Properties  
+
+---
+# 11_fun_with_js
+
+This folder contains JavaScript concepts and experiments for fun and learning.
+
+## Files
+
+- [closure.html](./11_fun_with_js/closure.html) - Understanding JavaScript Closures  
+
+---
+
 
 **Author:** Deepak  
 [GitHub Repository](https://github.com/Deepak081999/concept-for-javascrpit)
